@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently getting my **CompTia ITF/Tech+ certificate**
 
-- 👨‍💻 All of my projects are available on my github [github.com/Xordas](github.com/Xordas)
+- 👨‍💻 All of my projects are available on my Github
 
 - 📫 You can reach out to me at **xordas@xordas.me**
 
