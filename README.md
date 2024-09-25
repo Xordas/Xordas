@@ -11,9 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="mailto:xordas@xordas.me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="xordas@xordas.me" height="30" width="40" /></a>
+<a href="https://discord.com/users/754481848268357743" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".xordas" height="30" width="40" /></a>
 <a href="https://twitter.com/_xordas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_xordas" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/xordas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xordas" height="30" width="40" /></a>
-<a href="https://discord.com/users/754481848268357743" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".xordas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
