@@ -11,7 +11,7 @@
     👨‍💻 All of my projects are available on my <a href="https://github.com/Xordas">Github</a>
 </p>
 <p align="center">
-    📫 You can reach out to me at <a href="mailto:xordas@xordas.me">xordas@xordas.me></a>
+    📫 You can reach out to me at <a href="mailto:xordas@xordas.me">xordas@xordas.me</a>
 </p><br>
 
 <h3 align="center">Languages and Tools:</h3>
