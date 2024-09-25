@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Xordas</h1>
 <h3 align="center">Im a learning full stack dev</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xordas&label=Profile%20views&color=0e75b6&style=flat" alt="xordas" /> </p>
-
 - 🔭 I’m currently working on a project called [River AI](https://github.com/RiverINC)
 
 - 🌱 I’m currently getting my **CompTia ITF/Tech+ certificate**
