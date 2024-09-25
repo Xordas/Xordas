@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xordas</h1>
-<h3 align="center">Im a learning full stack dev</h3><br>
+<h3 align="center">I'm a learning full stack dev</h3><br>
 
 <p align="center">
     🔭 I’m currently working on a project called <a href="https://github.com/RiverINC">River AI</a>
