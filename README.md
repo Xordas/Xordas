@@ -5,7 +5,10 @@
     🔭 I’m currently working on a project called <a href="https://github.com/RiverINC">River AI</a>
 </p>
 <p align="center">
-    🌱 I’m currently getting my <strong>CompTia ITF/Tech+ certificate</strong>
+    🌱 Not currently working on anything</strong>
+</p>
+<p align="center">
+    🎓 I currently have my CompTIA Tech+ Certificate</strong>
 </p>
 <p align="center">
     👨‍💻 All of my projects are available on my <a href="https://github.com/Xordas">Github</a>
