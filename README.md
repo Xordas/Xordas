@@ -5,7 +5,7 @@
     🔭 I’m currently working on a project called <a href="https://github.com/RiverINC">River AI</a>
 </p>
 <p align="center">
-    🌱 Not currently working on anything</strong>
+    🌱 Not currently working on anything new</strong>
 </p>
 <p align="center">
     🎓 I currently have my CompTIA Tech+ Certificate</strong>
