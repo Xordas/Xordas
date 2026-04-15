@@ -36,5 +36,5 @@
 
 - Portfolio: https://xordas.me
 - Blog: https://blog.xordas.me
-- Email: xordas@xordas.me
+- Email: contact@xordas.me
 
