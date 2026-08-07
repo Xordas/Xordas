@@ -35,6 +35,13 @@ motto:     "Ship polished, keep it reliable, automate the rest."
 
 ---
 
+## 🎓 Certifications
+- CompTIA Tech+
+- Microsoft IT Specialist (ITS)
+- PCAP – Certified Associate Python Programmer
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
